@@ -1,0 +1,10 @@
+{
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "name": "Partisan Language Extension",
+    "description": "This is a Chrome extension that identifies partisan language and suggests more neutral alternatives using AI.",
+    "action": {
+        "default_popup": "js/index.html",
+        "default_title": "Partisan Language Extension"
+    }
+}
